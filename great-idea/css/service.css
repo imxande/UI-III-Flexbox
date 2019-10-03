@@ -83,6 +83,8 @@ h1, h2, h3, h4, h5 {
 
 .service{
     padding:0px 20px 10px 35px;
+    border-bottom: 1px solid black;
+	
     
 }
 
@@ -160,6 +162,7 @@ footer{
     
     padding:0px 20px 10px 40px;
     justify-content:center;
+    border-top: 1px solid black;
 }
 
 ul li{
@@ -184,4 +187,8 @@ ul li{
     text-align: center;
     margin:15px 0px;
     border-radius:10px;
+}
+
+body{
+    padding: 0px 20px 0px 20px;
 }
